@@ -1,4 +1,5 @@
 Hola este fichero se ha creado desde Git Hub.
-cambio 26/09/20025
+cambio 26/09/20025 / modificación rama 1 10/10/2025
 cambio 29/09/2025
-cambio 09/10(2025)
+cambio 09/10(2025) 
+cambio rama 1 10/10/2025
